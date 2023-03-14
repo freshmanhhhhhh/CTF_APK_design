@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">wonderland</string>
+    <string name="w">welcome_to_wonderland!</string>
+    <string name="s">start</string>
+    <string name="loading">loading…</string>
+    <string name="tip1">4 flagpieces waiting for you</string>
+    <string name="crackme">crackme</string>
+    <string name="b">zioxdpnji}}~z</string>
+    <string name="mask">are_you_ready_to_crack_me?</string>
+    <string name="h1">please input the flag</string>
+    <string name="bb1">check</string>
+    <string name="type">DES</string>
+    <string name="alg">DES/CBC/PKCS5Padding</string>
+    <string name="hh">wrong time!</string>
+    <string name="form">yyyy-MM-dd HH:mm:ss</string>
+    <string name="lal">umpqq*x{</string>
+    <string name="nan">aPxWlYSMYLOOsgl1QEyZ+dlMD1RxV+SBKJqY6lFunLI=</string>
+    <string name="please_input_the_flag">please input the flag</string>
+    <string name="check">Check</string>
+    <string name="hint_q">please input the flag</string>
+    <string name="btn_click">Check</string>
+</resources>
